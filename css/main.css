@@ -1,0 +1,19 @@
+/*estilos carousel*/
+
+.carousel-content {
+	display: none;
+	
+}
+
+.carousel-content.active {
+	display: block;
+}
+
+img{
+	width: 50%;
+	height: 50%;
+}
+
+/*terminan estilos carousel*/
+
+
