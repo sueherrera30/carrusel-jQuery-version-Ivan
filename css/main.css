@@ -9,11 +9,60 @@
 	display: block;
 }
 
-img{
+.carousel-content img{
 	width: 50%;
 	height: 50%;
 }
 
 /*terminan estilos carousel*/
+body{
+	background-color: palegoldenrod;
+}
+header{
+	text-align: center;
+	background-color: lightpink;
+	color: white;
+	font-size: 2vw;
+	padding: 4%;
+	opacity: 0.5;
+	
+}
+nav:hover{
+	color: forestgreen;
+}
 
+#flores{
+	width:7%;
+	height: 7%;
+}
+
+.controls{
+	margin-left:12%;
+}
+
+.carousel{
+	margin-top: 5%;
+}
+.control{
+	border-radius: 50%;
+	height: 10%;
+	width: 5%;
+	padding: 0.5%;
+	
+}
+
+.titulo{
+	margin-left: 8%;
+}
+
+.flechas{ 
+	color: deeppink;
+	font-size: 2vw;
+	font-weight: bold;
+}
+
+.controls{
+ padding-left:2%;
+ margin-top: 1%;
+}
 
